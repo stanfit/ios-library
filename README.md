@@ -24,6 +24,7 @@
 
 ## Image Downloader/Cache
 - [Nuke](https://github.com/kean/Nuke) Powerful image loading and caching system.
+- [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight, pure-Swift library for downloading and caching images from the web.
 
 ## Dependency Injection
 - [Swinject](https://github.com/Swinject/Swinject) Dependency injection framework for Swift with iOS/macOS/Linux.
