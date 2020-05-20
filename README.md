@@ -48,4 +48,4 @@
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) A Swift command line tool for generating your Xcode project.
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) The Swift code generator for your assets, storyboards, Localizable.strings.
 - [LicensePlist](https://github.com/mono0926/LicensePlist) A license list generator of all your dependencies for iOS applications.
-- [jazzy](https://github.com/realm/jazzy) 
+- [jazzy](https://github.com/realm/jazzy) Soulful docs for Swift & Objective-C.
