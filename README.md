@@ -37,6 +37,7 @@
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
 
 ## Utility
+- [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) A handy collection of more than 500 native Swift extensions to boost your productivity.
 
 ## Debug
 - [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) A debug log framework for use in Swift projects.
