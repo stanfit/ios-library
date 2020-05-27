@@ -36,8 +36,11 @@
 - [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) Streams of values over time.
 - [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) Reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
 
-## Utility
+## Extension
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) A handy collection of more than 500 native Swift extensions to boost your productivity.
+
+## Crypto
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift.
 
 ## Debug
 - [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) A debug log framework for use in Swift projects.
