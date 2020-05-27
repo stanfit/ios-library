@@ -19,6 +19,9 @@
 ## DB
 - [Realm Swift](https://realm.io/docs/swift/latest/) The Realm Platform is a combination of noSQL based server and client components.
 
+## Json
+- [Codable](https://developer.apple.com/documentation/swift/codable) A type that can convert itself into and out of an external representation.
+
 ## Keychain
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
 
@@ -40,6 +43,7 @@
 - [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) A handy collection of more than 500 native Swift extensions to boost your productivity.
 
 ## Crypto
+- [CryptoKit](https://developer.apple.com/documentation/cryptokit) Perform cryptographic operations securely and efficiently.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift.
 
 ## Debug
